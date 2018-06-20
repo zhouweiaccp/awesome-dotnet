@@ -758,7 +758,7 @@ metadata in media files, including video, audio, and photo formats
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 * [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 * [RabbitMQ.NET](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
-* [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+* [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ  >=net4.0
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [RestBus](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ. 
@@ -768,6 +768,11 @@ metadata in media files, including video, audio, and photo formats
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .NET implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in-memory, Redis and Azure implementations.
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
+* [MQTTnet](https://github.com/chkr1011/MQTTnet) is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
+* [Echeers](https://github.com/Echeers/Mq)虽然这个项目是C#写的，它仍然具有非常出色的跨平台性。你可以在任何你喜欢的桌面和服务器平台下运行它 netcore
+* [equeue](http://www.cnblogs.com/netfocus/p/3866799.html) net4.5
+
+
 
 ## Reactive Programming
 
