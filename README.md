@@ -768,6 +768,7 @@ metadata in media files, including video, audio, and photo formats
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 * [SmartSql](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+* [SqlSugar](https://github.com/sunkaixuan/SqlSugar) Best ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm
 
 ## Package Management
 
