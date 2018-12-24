@@ -93,6 +93,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Push Notifications](#push-notifications)
   * [Query Builders](#query-builders)
   * [Queue](#queue)
+  * [RPC](#RPC)
   * [Reactive Programming](#reactive-programming)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
@@ -823,6 +824,13 @@ metadata in media files, including video, audio, and photo formats
 * [Echeers](https://github.com/Echeers/Mq)虽然这个项目是C#写的，它仍然具有非常出色的跨平台性。你可以在任何你喜欢的桌面和服务器平台下运行它 netcore
 * [equeue](http://www.cnblogs.com/netfocus/p/3866799.html) net4.5
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/  
+
+## RPC
+* [wcf](https://github.com/jinweile/wcf) 封装的wcf中间件，做了负载均衡和高可用处理，引用大众点评的cat.net客户端实现业务监控
+* [grpc](https://github.com/grpc/grpc)  各语言标准都有
+* [Halibut](https://github.com/OctopusDeploy/Halibut) A secure communication stack for .NET using JSON-RPC over SSL.
+* [surging](https://github.com/dotnetcore/surging)  是一个分布式微服务框架,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性
+
 
 ## Reactive Programming
 
