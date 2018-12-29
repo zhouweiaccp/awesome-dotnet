@@ -115,6 +115,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
   * [WPF](#wpf)
+  * [developTool](#developTool)
 * [Other Lists](#other-lists)
 * [Resources](#resources)
 
@@ -1021,6 +1022,13 @@ metadata in media files, including video, audio, and photo formats
 
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
+
+## developTool
+* [netsparkle](https://github.com/dei79/netsparkle) autoupdate
+* [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects
+* [MailSystem.net](https://github.com/pmengal/MailSystem.NET) 功能强大的电子邮件组件,提供对SMTP, POP3, IMAP4, NNTP, MIME, S/MIME, OpenPGP, DNS, vCard
+* [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator)一个类似于RubyMigrations的数据库Migration框架
+* [nuget](https://nugetmusthaves.com/) 类似nuget功能
 
 ## DDD
 
