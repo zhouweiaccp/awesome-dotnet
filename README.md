@@ -622,7 +622,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **[Proprietary]** **[Free Tier]**
 * [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
 * [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **[Free for OSS][$]**
-
+* [FlashLog](https://github.com/Emrys5/Emrys.FlashLog) net 用队列超高速写日志
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
@@ -830,7 +830,8 @@ metadata in media files, including video, audio, and photo formats
 * [grpc](https://github.com/grpc/grpc)  各语言标准都有
 * [Halibut](https://github.com/OctopusDeploy/Halibut) A secure communication stack for .NET using JSON-RPC over SSL.
 * [surging](https://github.com/dotnetcore/surging)  是一个分布式微服务框架,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性
-
+* [SAEA](https://github.com/yswenli/SAEA)是一个高性能IOCP框架，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、高性能消息队列、rpc、redis驱动、Mvc WebApi、单机百万连接高性能消息服务器、大文件传输等
+* [BeetleX](https://github.com:IKende/BeetleX) 是基于dotnet core实现的轻量级高性能的TCP通讯组件，使用方便、性能高效和安全可靠是组件设计的出发点！开发人员可以在Beetlx组件的支持下快带地构建高性能的TCP通讯服务程序，在安全通讯方面只需要简单地设置一下SSL信息即可实现可靠安全的SSL服务。
 
 ## Reactive Programming
 
@@ -1043,3 +1044,4 @@ metadata in media files, including video, audio, and photo formats
 
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
+* [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/langs/dotnet.html) 各总资源
