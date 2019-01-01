@@ -338,6 +338,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+* [OpenDBDiff](https://github.com/OpenDBDiff/OpenDBDiff) A database comparison tool for Microsoft SQL Server 2005+ that reports schema differences and creates a synchronization script
+* [SqlToDocTool](https://github.com/hgmsq/SqlToDocTool) SQlServer 数据库生成数据库说明文档工具
+* [MySqlBackup.Net](https://github.com/MySqlBackupNET/MySqlBackup.Net) A tool to backup and restore MySQL database in C#/VB.NET/ASP.NET.
 
 ## Database Drivers
 
@@ -821,10 +824,12 @@ metadata in media files, including video, audio, and photo formats
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .NET implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in-memory, Redis and Azure implementations.
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
-* [MQTTnet](https://github.com/chkr1011/MQTTnet) is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.
+* [MQTTnet](https://github.com/chkr1011/MQTTnet) is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/. http://www.emqtt.com/
 * [Echeers](https://github.com/Echeers/Mq)虽然这个项目是C#写的，它仍然具有非常出色的跨平台性。你可以在任何你喜欢的桌面和服务器平台下运行它 netcore
 * [equeue](http://www.cnblogs.com/netfocus/p/3866799.html) net4.5
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/  
+* [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) Bounded multiple producers multiple consumers queue for .NET
+* [Shuttle.Esb](https://github.com/Shuttle/Shuttle.Esb) A highly flexible and free .NET open-source enterprise service bus.
 
 ## RPC
 * [wcf](https://github.com/jinweile/wcf) 封装的wcf中间件，做了负载均衡和高可用处理，引用大众点评的cat.net客户端实现业务监控
@@ -833,6 +838,7 @@ metadata in media files, including video, audio, and photo formats
 * [surging](https://github.com/dotnetcore/surging)  是一个分布式微服务框架,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性
 * [SAEA](https://github.com/yswenli/SAEA)是一个高性能IOCP框架，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、高性能消息队列、rpc、redis驱动、Mvc WebApi、单机百万连接高性能消息服务器、大文件传输等
 * [BeetleX](https://github.com:IKende/BeetleX) 是基于dotnet core实现的轻量级高性能的TCP通讯组件，使用方便、性能高效和安全可靠是组件设计的出发点！开发人员可以在Beetlx组件的支持下快带地构建高性能的TCP通讯服务程序，在安全通讯方面只需要简单地设置一下SSL信息即可实现可靠安全的SSL服务。
+* [BTDB](https://github.com/Bobris/BTDB) Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 
 ## Reactive Programming
 
