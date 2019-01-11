@@ -108,6 +108,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Tools](#tools)
   * [Trading](#trading)
   * [UI Automation](#ui-automation)
+  * [Utility](#Utility)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Browsers](#web-browsers)
   * [Web Frameworks](#web-frameworks)
@@ -969,6 +970,15 @@ metadata in media files, including video, audio, and photo formats
 * [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 * [FlaUI](https://github.com/Roemer/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+
+## Utility
+* [dafeng-lin](https://github.com/dafeng-lin/Utility)DotNet开发企业级Helper.封装了常用的功能性代码,且类与类之间没有依赖性,每个类都可以单独拿来使用.持续更新中
+* [Common.Utilit] (https://github.com/iZhongCheng/Common.Utilit)C# 工具类，含web缓存管理、性能计数器、config配置文件操作、时间戳转换、XML转字典对象、AES/DES加解密、字符串操作、枚举、日志、中文转拼音、Http请求、发送Smtp邮件
+* [Common.Utility] (https:github.com:zhouweiaccp/Common.Utility)
+* [] ()
+* [] ()
+* [] ()
+
 
 ## Visual Studio Plugins
 
