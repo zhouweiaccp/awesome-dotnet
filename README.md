@@ -628,6 +628,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
 * [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **[Free for OSS][$]**
 * [FlashLog](https://github.com/Emrys5/Emrys.FlashLog) net 用队列超高速写日志
+* [AnyLog](https://github.com/kerryjiang/AnyLog) 日志接口  新出来  轻级 
+* [slf](https://github.com/zhouweiaccp/slf4net) 日志接口          中级 []()
+* [common-logging](https://github.com/net-commons/common-logging) 日志接口  重量级
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
