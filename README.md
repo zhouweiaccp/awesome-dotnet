@@ -1038,7 +1038,9 @@ metadata in media files, including video, audio, and photo formats
 
 ## DDD
 
-* [event-sourcing-jambo] (https://github.com/ivanpaulovich/event-sourcing-jambo) An Hexagonal Architecture with DDD + Aggregates + Event Sourcing using .NET Core, Kafka e MongoDB (Blog Engine)
+* [event-sourcing-jambo] (https://github.com/ivanpaulovich/event-sourcing-jambo) An Hexagonal Architecture with DDD + Aggregates + Event Sourcing using .NET Core, Kafka e MongoDB 
+(Blog Engine)
+* [rafy](https://github.com/zgynhqf/rafy)域实体框架。Web 启动框架。 通用的插件。 相应的单元测试框架
 
 # Other Lists
 
