@@ -793,7 +793,7 @@ metadata in media files, including video, audio, and photo formats
 * [BaGet](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
-
+* [MinimalNugetServer](https://github.com/TanukiSharp/MinimalNugetServer) This is a minimal implementation of a NuGet server
 ## PDF
 
 * [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]****[Free for OSS]**
