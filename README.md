@@ -81,6 +81,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Metrics](#metrics)
   * [Micro Framework](#micro-framework)
   * [Minification](#minification)
+  * [Microservices](#microservices)
   * [Misc](#misc)
   * [MVVM](#mvvm)
   * [Object to object mapping](#object-to-object-mapping)
@@ -692,6 +693,9 @@ metadata in media files, including video, audio, and photo formats
 ## Micro Framework
 * [.NET Micro Framework Interpreter](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
+## microservices
+* [surging](https://github.com/dotnetcore/surging) surging 是一个分布式微服务引擎,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) .NET core API Gateway http://threemammals.com/ocelot
 ## Minification
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
@@ -853,6 +857,8 @@ metadata in media files, including video, audio, and photo formats
 * [BeetleX](https://github.com:IKende/BeetleX) 是基于dotnet core实现的轻量级高性能的TCP通讯组件，使用方便、性能高效和安全可靠是组件设计的出发点！开发人员可以在Beetlx组件的支持下快带地构建高性能的TCP通讯服务程序，在安全通讯方面只需要简单地设置一下SSL信息即可实现可靠安全的SSL服务。
 * [BTDB](https://github.com/Bobris/BTDB) Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
+* [Thirft](http://thrift.apache.org/docs/) The Apache Thrift software framework, for scalable cross-language services development
+* []()
 
 ## Reactive Programming
 
