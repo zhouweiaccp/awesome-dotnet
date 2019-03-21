@@ -903,6 +903,9 @@ metadata in media files, including video, audio, and photo formats
 * [Migrant](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 * [Utf8Json](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 * [Swifter.Json](https://github.com/Dogwei/Swifter.Json).Net 平台功能最强大，性能最佳的 JSON 序列化和反序列化库
+* [litjson](https://github.com/LitJSON/litjson)JSON library for the .Net framework
+* [jil](https://github.com/kevin-montrose/Jil) Fast .NET JSON (De)Serializer, Built On Sigil
+* [FastJson](https://github.com/mgholam/fastJSON)Smallest, fastest polymorphic JSON serializer http://www.codeproject.com/Articles/159450/fastJSON
 ## SMS and Phone calls
 
 * [Twilio-csharp](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
