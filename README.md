@@ -910,7 +910,6 @@ metadata in media files, including video, audio, and photo formats
 * [Utf8Json](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 * [Swifter.Json](https://github.com/Dogwei/Swifter.Json).Net 平台功能最强大，性能最佳的 JSON 序列化和反序列化库
 * [litjson](https://github.com/LitJSON/litjson)JSON library for the .Net framework
-* [jil](https://github.com/kevin-montrose/Jil) Fast .NET JSON (De)Serializer, Built On Sigil
 * [FastJson](https://github.com/mgholam/fastJSON)Smallest, fastest polymorphic JSON serializer http://www.codeproject.com/Articles/159450/fastJSON
 ## SMS and Phone calls
 
@@ -1002,7 +1001,7 @@ metadata in media files, including video, audio, and photo formats
 * [dafeng-lin](https://github.com/dafeng-lin/Utility)DotNet开发企业级Helper.封装了常用的功能性代码,且类与类之间没有依赖性,每个类都可以单独拿来使用.持续更新中
 * [Common.Utilit](https://github.com/iZhongCheng/Common.Utilit) C# 工具类，含web缓存管理、性能计数器、config配置文件操作、时间戳转换、XML转字典对象、AES/DES加解密、字符串操作、枚举、日志、中文转拼音、Http请求、发送Smtp邮件
 * [Common.Utility](https:github.com:zhouweiaccp/Common.Utility)
-* []()
+* [Swifter.Core](https://github.com/Dogwei/Swifter.Core)Swifter.Core 有助于您解除语言限制，编写您最优秀的 .Net 程序。
 * []()
 * []()
 
