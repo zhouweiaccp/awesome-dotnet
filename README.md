@@ -639,6 +639,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AnyLog](https://github.com/kerryjiang/AnyLog) 日志接口  新出来  轻级 
 * [slf](https://github.com/zhouweiaccp/slf4net) 日志接口          中级 []()
 * [common-logging](https://github.com/net-commons/common-logging) 日志接口  重量级
+* [liblog](https://github.com/damianh/LibLog) 日志接口类
+
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
