@@ -640,6 +640,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [slf](https://github.com/zhouweiaccp/slf4net) 日志接口          中级 []()
 * [common-logging](https://github.com/net-commons/common-logging) 日志接口  重量级
 * [liblog](https://github.com/damianh/LibLog) 日志接口类
+* [logmagic](https://github.com/aloneguid/logmagic) .NET 4.5 .NET Standard 1.6. 比较小众，功能不多 作者不在支持
+* [desharp](https://github.com/debug-sharp/desharp) C#/VB .NET debuging utility to dump or log structuralized variables, exceptions, stack traces and much more into console, visual studio console, into html web response as floating window or into html/text log files on HDD
 
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
