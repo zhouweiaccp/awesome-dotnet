@@ -645,6 +645,8 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [slf](https://github.com/zhouweiaccp/slf4net) 日志接口          中级 []()
 * [common-logging](https://github.com/net-commons/common-logging) 日志接口  重量级
 * [liblog](https://github.com/damianh/LibLog) 日志接口类
+* [logmagic](https://github.com/aloneguid/logmagic) .NET 4.5 .NET Standard 1.6. 比较小众，功能不多 作者不在支持
+* [desharp](https://github.com/debug-sharp/desharp) C#/VB .NET debuging utility to dump or log structuralized variables, exceptions, stack traces and much more into console, visual studio console, into html web response as floating window or into html/text log files on HDD
 
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
@@ -842,6 +844,7 @@ metadata in media files, including video, audio, and photo formats
 * [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 * [RabbitMQ.NET](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ  >=net4.0
+* [zeromq](https://github.com/zeromq/clrzmq4) - ZeroMQ C# namespace (.NET and mono, Windows, Linux and MacOSX, x86 and amd64)
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [RestBus](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
