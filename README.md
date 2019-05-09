@@ -799,6 +799,8 @@ metadata in media files, including video, audio, and photo formats
 * [SqlSugar](https://github.com/sunkaixuan/SqlSugar) Best ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm
 * [SmartSql](https://github.com/Smart-Kit/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight, efficient and very fast Hybrid ORM library for .NET.
+* [linq2db](https://github.com/linq2db/linq2db) one step above micro-ORMs like Dapper, Massive, or PetaPoco   T4模板
+* [AntData.ORM](https://github.com/yuzd/AntData.ORM) vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步
 
 ## Package Management
 
