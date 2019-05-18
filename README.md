@@ -70,6 +70,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Install Tools](#install-tools)
   * [Internationalization](#internationalization)
   * [Interoperability](#interoperability)
+  * [interface]#interface
   * [IoC](#ioc)
   * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
@@ -597,6 +598,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Pyrolite](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
 the Python world. It uses the Pyro protocol to call methods on remote objects.
 
+## interface
+ * [RESTful ]()RESTful 
+ * [graphql](http://graphql.cn/code/#c-net)
+  - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)
+  - [hotchocolate](https://github.com/ChilliCream/hotchocolate)  Hot Chocolate is a GraphQL server, written in C# for .Net Core and .Net Framework
 ## IoC
 
 * [Castle Windsor](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
