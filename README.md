@@ -654,6 +654,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [liblog](https://github.com/damianh/LibLog) 日志接口类
 * [logmagic](https://github.com/aloneguid/logmagic) .NET 4.5 .NET Standard 1.6. 比较小众，功能不多 作者不在支持
 * [desharp](https://github.com/debug-sharp/desharp) C#/VB .NET debuging utility to dump or log structuralized variables, exceptions, stack traces and much more into console, visual studio console, into html web response as floating window or into html/text log files on HDD
+* [nulog](http://docs.nulog.io/en/latest/intrototaglogging.html#intrototaglogging) delivered using NuGet. Look for, and install the NuLog package into any project you wish to use NuLog for. NuLog supports .Net versions 3.5, 4 and 4.5.2 (and on).
 
 ## Machine Learning and Data Science
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
