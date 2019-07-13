@@ -1033,7 +1033,7 @@ metadata in media files, including video, audio, and photo formats
 * [Common.Utilit](https://github.com/iZhongCheng/Common.Utilit) C# 工具类，含web缓存管理、性能计数器、config配置文件操作、时间戳转换、XML转字典对象、AES/DES加解密、字符串操作、枚举、日志、中文转拼音、Http请求、发送Smtp邮件
 * [Common.Utility](https:github.com:zhouweiaccp/Common.Utility)
 * [Swifter.Core](https://github.com/Dogwei/Swifter.Core)Swifter.Core 有助于您解除语言限制，编写您最优秀的 .Net 程序。
-* []()
+* [ecommon](https://github.com/tangxuehua/ecommon.git) A common infrastructure library.
 * []()
 
 
