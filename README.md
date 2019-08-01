@@ -1134,7 +1134,11 @@ metadata in media files, including video, audio, and photo formats
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
-* [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+* [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and 
+refactorings.
+* [DotNetStack](https://github.com/unruledboy/DotNetStack) .NET technology stack, including frameworks, platforms, IDE, SDKs, desktop, web, SOA, data, productivity, components, tools etc
+
+
 
 # Resources
 
