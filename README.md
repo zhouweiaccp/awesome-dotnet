@@ -1145,3 +1145,5 @@ refactorings.
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 * [be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/langs/dotnet.html) 各总资源
+* [SafeObjectPool](https://github.com/zhouweiaccp/SafeObjectPool) 应用场景：连接池，资源池等等
+* [ObjectPool](https://github.com/pomma89/ObjectPool) A generic, concurrent, portable and flexible Object Pool for the .NET Framework, completely based on the Code Project article of Ofir Makmal.
