@@ -893,6 +893,9 @@ metadata in media files, including video, audio, and photo formats
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/  
 * [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) Bounded multiple producers multiple consumers queue for .NET
 * [Shuttle.Esb](https://github.com/Shuttle/Shuttle.Esb) A highly flexible and free .NET open-source enterprise service bus.
+* [nats](https://docs.nats.io/) go语言写的消息队列 https://www.nuget.org/packages/MyNatsClient.Rx/
+
+
 
 ## RPC
 * [wcf](https://github.com/jinweile/wcf) 封装的wcf中间件，做了负载均衡和高可用处理，引用大众点评的cat.net客户端实现业务监控
