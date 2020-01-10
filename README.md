@@ -163,6 +163,17 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Bing](https://github.com/jianxuanbing/Bing) 基于 .NetFramework 4.5 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成
 * [NetModular](https://github.com/iamoldli/NetModular) Net Core modular develop framework 1、模块化 2、前后端分离 3、多数据库任意切换(目前支持SqlServer、MySql、SQLite) 4、异步到底 框架：Vue.js、Element-UI
 * [HopFramework](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
+* [ZKWeb](https://github.com/zkweb-framework/ZKWeb) ZKWeb is a flexible web framework for .NET Framework and .NET Core
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+
+
+
 
 ## Application Templates
 
@@ -831,7 +842,10 @@ metadata in media files, including video, audio, and photo formats
 * [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight, efficient and very fast Hybrid ORM library for .NET.
 * [linq2db](https://github.com/linq2db/linq2db) one step above micro-ORMs like Dapper, Massive, or PetaPoco   T4模板
 * [AntData.ORM](https://github.com/yuzd/AntData.ORM) vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步
+* [FreeSql](https://github.com/2881099/FreeSql)FreeSql 是功能强大的对象关系映射技术(O/RM)，支持 .NETCore 2.1+ 或 .NETFramework 4.0+ 或 Xamarin
 
+扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发
+* [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst)
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
