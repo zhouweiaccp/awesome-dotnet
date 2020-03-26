@@ -847,6 +847,9 @@ metadata in media files, including video, audio, and photo formats
 
 扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发
 * [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst)
+* [Chloe.ORM](https://github.com/shuxinqin/Chloe) http://www.52chloe.com/Wiki/Document
+
+
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
