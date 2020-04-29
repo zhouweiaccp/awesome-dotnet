@@ -907,11 +907,12 @@ metadata in media files, including video, audio, and photo formats
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [MQTTnet](https://github.com/chkr1011/MQTTnet) is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/. http://www.emqtt.com/
 * [Echeers](https://github.com/Echeers/Mq)虽然这个项目是C#写的，它仍然具有非常出色的跨平台性。你可以在任何你喜欢的桌面和服务器平台下运行它 netcore
-* [equeue](http://www.cnblogs.com/netfocus/p/3866799.html) net4.5
+* [equeue](http://www.cnblogs.com/netfocus/p/3866799.html) net4.5 https://github.com/tangxuehua/equeue
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/  
 * [MPMCQueue.NET](https://github.com/alexandrnikitin/MPMCQueue.NET) Bounded multiple producers multiple consumers queue for .NET
 * [Shuttle.Esb](https://github.com/Shuttle/Shuttle.Esb) A highly flexible and free .NET open-source enterprise service bus.
 * [nats](https://docs.nats.io/) go语言写的消息队列 https://www.nuget.org/packages/MyNatsClient.Rx/
+* [LogDashboard](https://github.com/liangshiw/LogDashboard) 它旨在帮助开发人员排查项目运行中出现错误时快速查看日志排查问题 通常我们会在项目中使用nlog、log4net等日志组件 LogDashboard适用于aspnetcore 2.x - aspnetcore3.x 项目, 采用aspnetcore中间件技术开发. 轻量快速
 
 
 
