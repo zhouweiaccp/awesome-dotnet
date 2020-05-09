@@ -635,7 +635,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Castle Windsor](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
 * [Unity](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
-* [DryIoc](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+* [DryIoc](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.  https://bitbucket.org/dadhi/dryioc/src/default/
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .NET dependency injectors
 * [lamar](https://github.com/jasperfx/lamar/) - The original IoC/DI Container for .Net (Previously StructureMap)
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
