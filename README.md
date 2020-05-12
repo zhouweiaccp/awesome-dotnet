@@ -1201,7 +1201,7 @@ metadata in media files, including video, audio, and photo formats
 * [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)您可以方便快速地开发微信全平台的应用（包括微信公众号、小程序、小游戏、企业号、开放平台、微信支付、JS-SDK、微信硬件/蓝牙，等等）。本项目的 Demo 同样适合初学者进行 .NET 编程学习
 * [GoogleAuthenticator](https://github.com/BrandonPotter/GoogleAuthenticator/wiki) google 双因子认证
 * [wpdotnet-sdk](https://github.com/iolevel/wpdotnet-sdk)WordPress compiled to .NET Standard. SDK for ASP.NET Core
-* []()
+* [Vue.NetCore](https://gitee.com/abccc123/Vue.NetCore)框架采用dotnetcore+vue+elementUI 前后端分离，并且支持前端、后台代码业务动态扩展，框架内置了一套有着20多种属性配置的代码生成器，可灵活配置生成的代码，代码生成器界面配置完成即可生成单表/主从表的增、删、改、查、导入、导出、上传、审核基础功能。只需要简单了解即可上手开发 
 * []()
 * []()
 * []()
