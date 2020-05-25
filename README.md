@@ -1200,6 +1200,6 @@ metadata in media files, including video, audio, and photo formats
 * [ObjectPool](https://github.com/pomma89/ObjectPool) A generic, concurrent, portable and flexible Object Pool for the .NET Framework, completely based on the Code Project article of Ofir Makmal.
 * [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)您可以方便快速地开发微信全平台的应用（包括微信公众号、小程序、小游戏、企业号、开放平台、微信支付、JS-SDK、微信硬件/蓝牙，等等）。本项目的 Demo 同样适合初学者进行 .NET 编程学习
 * [GoogleAuthenticator](https://github.com/BrandonPotter/GoogleAuthenticator/wiki) google 双因子认证
-* []()
-* []()
+* [obfuscar](https://github.com/obfuscar/obfuscar) 开源代码加密   XenoCode、Dotfuscator、Remotesoft，MaxtoCode
+* []() 
 * []()
