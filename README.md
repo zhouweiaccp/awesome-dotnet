@@ -169,7 +169,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [NetModular](https://github.com/iamoldli/NetModular) Net Core modular develop framework 1、模块化 2、前后端分离 3、多数据库任意切换(目前支持SqlServer、MySql、SQLite) 4、异步到底 框架：Vue.js、Element-UI
 * [HopFramework](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 * [ZKWeb](https://github.com/zkweb-framework/ZKWeb) ZKWeb is a flexible web framework for .NET Framework and .NET Core
-* []() 
+* [Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) 基于EF Core的Code First模式的DotNetCore快速开发框架
 * []() 
 * []() 
 * []() 
