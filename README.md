@@ -881,7 +881,7 @@ metadata in media files, including video, audio, and photo formats
 * [linq2db](https://github.com/linq2db/linq2db) one step above micro-ORMs like Dapper, Massive, or PetaPoco   T4模板
 * [AntData.ORM](https://github.com/yuzd/AntData.ORM) vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步
 * [FreeSql](https://github.com/2881099/FreeSql)FreeSql 是功能强大的对象关系映射技术(O/RM)，支持 .NETCore 2.1+ 或 .NETFramework 4.0+ 或 Xamarin
-扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发
+扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发  分表分库功能比较强大的地方
 * [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst)
 * [Chloe.ORM](https://github.com/shuxinqin/Chloe) http://www.52chloe.com/Wiki/Document
 * [SmartSql](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
