@@ -170,6 +170,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [HopFramework](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 * [ZKWeb](https://github.com/zkweb-framework/ZKWeb) ZKWeb is a flexible web framework for .NET Framework and .NET Core
 * [et](https://github.com/egametang/ET) ET是一个开源的游戏客户端（基于unity3d）服务端双端框架，服务端是使用C# .net core开发的分布式游戏服务端，其特点是开发效率高，性能强，双端共享逻辑代码，客户端服务端热更机制完善，同时支持可靠udp tcp websocket协议，支持服务端3D recast寻路等等
+* [Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) 基于EF Core的Code First模式的DotNetCore快速开发框架
 * []() 
 * []() 
 * []() 
@@ -574,6 +575,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - The Windows UI Library (WinUI) provides official native Microsoft UI controls and features for Windows UWP apps.
+* [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **[$]**
 
 ## HTML and CSS
 
@@ -881,7 +883,7 @@ metadata in media files, including video, audio, and photo formats
 * [linq2db](https://github.com/linq2db/linq2db) one step above micro-ORMs like Dapper, Massive, or PetaPoco   T4模板
 * [AntData.ORM](https://github.com/yuzd/AntData.ORM) vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步
 * [FreeSql](https://github.com/2881099/FreeSql)FreeSql 是功能强大的对象关系映射技术(O/RM)，支持 .NETCore 2.1+ 或 .NETFramework 4.0+ 或 Xamarin
-扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发
+扶摇直上，至强ORM只为自由编码；鹏程万里，至简Linq可使保留黑发  分表分库功能比较强大的地方
 * [SQLiteCodeFirst](https://github.com/msallin/SQLiteCodeFirst)
 * [Chloe.ORM](https://github.com/shuxinqin/Chloe) http://www.52chloe.com/Wiki/Document
 * [SmartSql](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
@@ -1149,6 +1151,10 @@ metadata in media files, including video, audio, and photo formats
 * [ecommon](https://github.com/tangxuehua/ecommon.git) A common infrastructure library.
 * [Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET) 是一个支持 .NET Framework 和 .NET Core 的公共基础扩展库，包含常规开发所需要的基础帮助类。 开发者可以直接使用 CO2NET 为项目提供公共基础方法，免去重复准备和维护公共代码的痛苦
 * [NewLifeX](git@github.com:NewLifeX/X.git) 
+* [Masuit.Tools](https://gitee.com/masuit/Masuit.Tools)包含一些常用的操作类，大都是静态类，加密解密，反射操作，动态编译，权重随机筛选算法，简繁转换，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，实体映射、集合扩展等常用封装。
+* []()
+* []()
+* []()
 
 ## Visual Studio Plugins
 
