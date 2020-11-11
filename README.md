@@ -401,6 +401,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 * [Storage.Net](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
+* [FreeRedis](https://www.cnblogs.com/kellynic/p/13943313.html) https://github.com/2881099/FreeRedis freeRedis is .NET redis client, supports .NETCore 2.1+, .NETFramework 4.0+, And Xamarin
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## Datetime
 
