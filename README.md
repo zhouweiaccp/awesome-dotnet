@@ -112,6 +112,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
     * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Tools](#tools)
+  * [Threading](#Threading)
   * [Trading](#trading)
   * [udp](#udp)
   * [UI](#UI)
@@ -1136,6 +1137,16 @@ metadata in media files, including video, audio, and photo formats
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
 * [YARP](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
+
+## Threading
+* [dotnet-threading](https://github.com/tunnelvisionlabs/dotnet-threading/tree/3e99a9d13476a1e8224d81f282f3cedad143c1bc)  4.0  3.5
+* [ComposableAsync](https://github.com/David-Desmaisons/ComposableAsync/tree/98d623ca4c7c6866f1fcd00f502687a7430bf61d)Create, compose and inject asynchronous behaviors in .Net Framework and .Net Core.
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 ## Trading
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
