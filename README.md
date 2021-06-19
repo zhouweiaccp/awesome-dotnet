@@ -1004,6 +1004,15 @@ metadata in media files, including video, audio, and photo formats
 * [Shuttle.Esb](https://github.com/Shuttle/Shuttle.Esb) A highly flexible and free .NET open-source enterprise service bus.
 * [nats](https://docs.nats.io/) go语言写的消息队列 https://www.nuget.org/packages/MyNatsClient.Rx/
 * [LogDashboard](https://github.com/liangshiw/LogDashboard) 它旨在帮助开发人员排查项目运行中出现错误时快速查看日志排查问题 通常我们会在项目中使用nlog、log4net等日志组件 LogDashboard适用于aspnetcore 2.x - aspnetcore3.x 项目, 采用aspnetcore中间件技术开发. 轻量快速
+* [CAP](git@github.com:dotnetcore/CAP.git) eventbus ，它是一种处理分布式事务的解决方案，同样具有 EventBus 的功能，它具有轻量级、易使用、高性能等特点。
+* [enocde]()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
